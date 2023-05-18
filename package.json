@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "bin": {
-    "@bisquit/create-app": "bin/index.ts"
+    "create-app": "bin/index.ts"
   },
   "devDependencies": {
     "@types/node": "^20.2.0",
