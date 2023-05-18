@@ -2,6 +2,11 @@
   "name": "@bisquit/create-app",
   "version": "0.0.1",
   "type": "module",
+  "author": "bisquit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisquit/create-app.git"
+  },
   "bin": {
     "create-app": "bin/index.ts"
   },
